@@ -84,11 +84,11 @@ nav li {
 }
 
 .Very-good {
-    color: green;
+    color:  rgb(56, 255, 56);
 }
 
 .Master {
-    color: green;
+    color: rgb(56, 255, 56);
     font-weight: bold;
 }
 
@@ -126,7 +126,7 @@ nav li {
 }
 
 button:hover{
-    background-color: green;
+    background-color: rgb(33, 214, 33);
     cursor: pointer;
 
 }
@@ -154,7 +154,7 @@ button{
     
     border: 1px solid black;
     border-radius: 5px;
-    /*box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);*/
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 
 
 }
