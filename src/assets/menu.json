@@ -1,21 +1,26 @@
-[{
-    "name": "Veggie Bliss", 
-    "kCal": 500, 
-    "url": "https://images-bonnier.imgix.net/files/ifo/production/20220412084608/Kødfri-burger-1.jpg?auto=compress,format&w=1024%201024w",
-    "lactose": false, 
-    "gluten": false
-},
-{
-    "name": "Veggie Bliss", 
-    "kCal": 500, 
-    "url": "https://images-bonnier.imgix.net/files/ifo/production/20220412084608/Kødfri-burger-1.jpg?auto=compress,format&w=1024%201024w",
-    "lactose": false, 
-    "gluten": false
-},
-{
-    "name": "Veggie Bliss", 
-    "kCal": 500, 
-    "url": "https://images-bonnier.imgix.net/files/ifo/production/20220412084608/Kødfri-burger-1.jpg?auto=compress,format&w=1024%201024w",
-    "lactose": false, 
-    "gluten": false
-}]
+[
+    
+      {
+        "name": "Carciofi Burger",
+        "imageUrl": "/img/burger_real_green.png",
+        "smakprofil": "our signature burger",
+        "containsGluten": true,
+        "containsLactose": false
+      },
+      {
+        "name": "The Cheesy One",
+        "imageUrl": "/img/burgers-grand-chicken-buffalo.png",
+        "smakprofil": "a cheesy mf",
+        "containsGluten": true,
+        "containsLactose": false
+      },
+      {
+        "name": "Skinny Bitch",
+        "imageUrl": "/img/product_burgare.png",
+        "smakprofil": "the keto friend",
+        "containsGluten": false,
+        "containsLactose": true
+      }
+    
+  ]
+  

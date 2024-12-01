@@ -19,7 +19,7 @@ h1 {
     color:rgb(246, 220, 104);
 }
 main, header, footer, nav ul {
-    max-width: 80rem;
+    max-width: 100rem;
     margin: 0 auto 0 auto;
 }
 main {
@@ -54,7 +54,7 @@ main {
 .header-content{
     height: 300px;
     overflow: hidden;
-    max-width: 80rem;
+    max-width: 100rem;
     margin: 0 auto;
     padding-left: 20px;
     padding-right: 20px;
@@ -96,13 +96,7 @@ nav li {
     font-weight: bold;
 }
 
-.gluten{
-    color: #ff5500
-}
 
-.laktos{
-    color: blue
-}
 
 .glutenfri{
     color: green
